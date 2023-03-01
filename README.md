@@ -1,6 +1,7 @@
 # 💫 About Me:
-<br><br>    I’m interested in code<br>    I’m currently learning code<br>    I’m looking to collaborate on code<br>    How to reach me @CarlosLobato79<br>
-
+I’m currently learning code and I’m looking to collaborate on code
+<br>
+How to reach me @CarlosLobato79<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lobatocarlos-dev) 
