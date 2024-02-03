@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning code and I’m looking to collaborate on code
+I’m currently working and develop the best tools but also I’m looking to collaborate on code
 <br>
 How to reach me @CarlosLobato79<br>
 
